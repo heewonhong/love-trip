@@ -28,7 +28,7 @@
     "react-lazy-load-image-component": "^1.6.3",
     "react-markdown": "^10.1.0",
     "react-query": "^3.39.3",
-    "react-router-dom": "^7.4.1",
+    "react-router-dom": "^6.20.0",
     "react-scripts": "5.0.1",
     "react-virtuoso": "^4.6.2",
     "recoil": "0.7.7",
